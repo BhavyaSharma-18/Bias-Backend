@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+aif360
+pandas
+numpy
+scikit-learn
+python-multipart
+reportlab
