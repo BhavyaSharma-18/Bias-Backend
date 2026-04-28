@@ -6,3 +6,5 @@ numpy
 scikit-learn
 python-multipart
 reportlab
+python-dotenv
+requests
